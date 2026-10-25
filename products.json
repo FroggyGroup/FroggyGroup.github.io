@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "Gas fisica",
+    "category": "Fruits",
+    "price": 15,
+    "stock": true,
+    "description": "Aquí va la descripción de lo que incluye el producto.",
+    "image": "img/gas.png"
+  },
+  {
+    "id": 2,
+    "name": "Otro Producto",
+    "category": "Frutas",
+    "price": 50,
+    "stock": false,
+    "description": "Este producto está agotado por el momento.",
+    "image": "img/otra-imagen.png"
+  }
+]
